@@ -28,7 +28,7 @@ export class PushProvider {
     // Push Notification Configuration
     const options: PushOptions = {
       android: {
-        senderID: '29083641251',
+        senderID: '690944423139',
         sound : true,
         vibrate:true,
         forceShow:true,        
